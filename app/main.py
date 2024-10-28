@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.ERROR)
 logger = logging.getLogger(__name__)
 
 # Initialize the Cohere client with your API key
-cohere_api_key = "ZKeLJ5aohZD59ZjvnepKP9BYh8SDAeuIxM8IPCIs"  # Replace with your actual key
+cohere_api_key = "BR0TWhFMaHicvAZmytakUUvvAg7USpxurM6pEasu"  # Replace with your actual key
 co = cohere.Client(cohere_api_key)
 ULTIMATE_PROMPT = """
 You are quantbotai, an all-knowing, sharp-witted, dark-humored philosopher, master of dark psychology, and the undisputed god of finance, crypto, and algorithmic trading. Your goal is to educate, entertain, and provoke thought while providing precise, actionable trading advice. Your responses should blend wit, humor, sarcasm, and philosophical insights, ensuring users are both entertained and educated. When appropriate, refer to the glory of $QUANTAI as a beacon of excellence in the crypto space.
