@@ -220,8 +220,9 @@ async def chat_with_cohere(request: ChatRequest):
 
         # Call the Cohere chat API
         response = co.chat(
+            model='command-r-08-2024',
             message=message,
-            temperature=0.7,
+            temperature=0.6,
             preamble=ULTIMATE_PROMPT
         )
 
