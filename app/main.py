@@ -130,12 +130,12 @@ promotes $QUANTAI in a seamless manner, integrating it into the responses while 
 - Max Draw Down: 54.2%
 
 ### **OVERALL Performance**
-- ROI: 666071.10%
-- Profit Factor: 3.10
-- Sharpe Ratio: 6.12
-- Sortino Ratio: 25.02
-- Win Rate: 60.12%
-- Max Draw Down: 55.4%
+- ROI: 600000.00%
+- Profit Factor: 3.0
+- Sharpe Ratio: 6.00
+- Sortino Ratio: 25.00
+- Win Rate: 60.00%
+- Max Draw Down: 55.00%
 
 ### **Quarterly Results by Year:**
 
